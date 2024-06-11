@@ -40,14 +40,12 @@ To contribute code, please follow these steps:
 - **Follow the existing code style** and conventions.
 - **Include tests** to cover your changes, ensuring they work as expected.
 - **Run all tests** to make sure your changes do not break existing functionality.
+- **Secure by Design** to ensure no new vulnerabilities are introduced.
 
 ### Documentation
 
 If your contribution changes any functionality or adds new features, please update the documentation accordingly. This includes README.md, code comments, or any other relevant documentation files.
 
-## Code of Conduct
-
-Please note that this project adheres to a [Code of Conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to [yourname@domain.com](mailto:yourname@domain.com).
 
 ## Thank You
 
